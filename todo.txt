@@ -1,0 +1,2 @@
+change terminal
+Check dependencies 
