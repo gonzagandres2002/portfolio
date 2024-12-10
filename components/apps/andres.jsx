@@ -332,11 +332,6 @@ function Skills() {
             />
             <img
               className="m-1"
-              src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"
-              alt="c#"
-            />
-            <img
-              className="m-1"
               src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff"
               alt="HTML"
             />
@@ -400,16 +395,16 @@ function Projects() {
       description: [
         "Paula Peñaflor, business developer agent, website using Next.js and Tailwind CSS.",
       ],
-      domains: ["javascript", "next.js", "tailwindcss"],
+      domains: ["Javascript", "Next.js", "Tailwindcss"],
     },
     {
-      name: "Curriculum Vitae API",
-      date: "June 2024",
-      link: "https://github.com/gonzagandres2002/curriculum_backend",
+      name: "Digi Media Devs API",
+      date: "December 2024",
+      link: "https://github.com/gonzagandres2002/dmd-backend",
       description: [
-        "A curriculum CRUD API built with Java Spring Boot.",
+        "Backend application for the DigiMediaDevs platform. It provides APIs to support tailored software and social media management services, ensuring secure, efficient, and scalable operations.",
       ],
-      domains: ["java", "MySQL", "spring-boot"],
+      domains: ["Java", "Spring Boot", "PostgreSQL", "JWT", "OAuth2"],
     },
     {
       name: "Inventory Management System",
@@ -418,7 +413,7 @@ function Projects() {
       description: [
         "An inventory CRUD application built with Java, Java Swing, and SQL Server.",
       ],
-      domains: ["java", "SQL Server", "Java Swing"],
+      domains: ["Java", "SQL Server", "Java Swing"],
     },
     {
       name: "Colombian league simulator",
@@ -427,7 +422,7 @@ function Projects() {
       description: [
         "A Colombian league simulator built with Java and Java Swing.",
       ],
-      domains: ["java", "Java Swing"]
+      domains: ["Java", "Java Swing"],
     },
   ];
 

@@ -37,7 +37,7 @@ export class Terminal extends Component {
         "curriculum-crud",
         "paula-penaflor-website"
       ],
-      interests: ["Software Engineering", "Deep Learning", "Computer Vision"],
+      interests: ["Software Engineering", "Deep Learning"],
       languages: ["JavaScript", "Java", "Python", "C#"],
     };
     this.state = {
